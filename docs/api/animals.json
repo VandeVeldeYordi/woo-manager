@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "animal": {
+      "english": "Field flicker",
+      "latin": "Colaptes campestroides"
+    },
+    "owner": "Luella Heining"
+  },
+  {
+    "id": 2,
+    "animal": {
+      "english": "Lemur, brown",
+      "latin": "Lemur fulvus"
+    },
+    "owner": "Turner Churchin"
+  },
+  {
+    "id": 3,
+    "animal": {
+      "english": "Cat, native",
+      "latin": "Dasyurus viverrinus"
+    },
+    "owner": "Klaus Pavolini"
+  },
+  {
+    "id": 4,
+    "animal": {
+      "english": "Cape white-eye",
+      "latin": "Zosterops pallidus"
+    },
+    "owner": "Susan Killeen"
+  },
+  {
+    "id": 5,
+    "animal": {
+      "english": "Loris, slender",
+      "latin": "Loris tardigratus"
+    },
+    "owner": "Belinda Petts"
+  },
+  {
+    "id": 6,
+    "animal": {
+      "english": "Yellow-throated sandgrouse",
+      "latin": "Pterocles gutturalis"
+    },
+    "owner": "Monah Claremont"
+  },
+  {
+    "id": 7,
+    "animal": {
+      "english": "Spider, wolf",
+      "latin": "Lycosa godeffroyi"
+    },
+    "owner": "Shanan Whitmell"
+  },
+  {
+    "id": 8,
+    "animal": {
+      "english": "Red hartebeest",
+      "latin": "Alcelaphus buselaphus caama"
+    },
+    "owner": "Beverley Messam"
+  },
+  {
+    "id": 9,
+    "animal": {
+      "english": "Black-tailed deer",
+      "latin": "Odocoileus hemionus"
+    },
+    "owner": "Josselyn Nangle"
+  },
+  {
+    "id": 10,
+    "animal": {
+      "english": "Eastern dwarf mongoose",
+      "latin": "Helogale undulata"
+    },
+    "owner": "Stanton Zotto"
+  },
+  {
+    "id": 11,
+    "animal": {
+      "english": "Carmine bee-eater",
+      "latin": "Merops nubicus"
+    },
+    "owner": "Amaleta Yanyshev"
+  },
+  {
+    "id": 12,
+    "animal": {
+      "english": "Civet cat",
+      "latin": "Bassariscus astutus"
+    },
+    "owner": "Darcee Hallor"
+  },
+  {
+    "id": 13,
+    "animal": {
+      "english": "Goose, greylag",
+      "latin": "Anser anser"
+    },
+    "owner": "Irene Rowbotham"
+  },
+  {
+    "id": 14,
+    "animal": {
+      "english": "Richardson's ground squirrel",
+      "latin": "Spermophilus richardsonii"
+    },
+    "owner": "Marylin Pilfold"
+  },
+  {
+    "id": 15,
+    "animal": {
+      "english": "Armadillo, seven-banded",
+      "latin": "Dasypus septemcincus"
+    },
+    "owner": "Hugh Linay"
+  },
+  {
+    "id": 16,
+    "animal": {
+      "english": "Macaw, blue and gold",
+      "latin": "Ara ararauna"
+    },
+    "owner": "Addi Maidment"
+  },
+  {
+    "id": 17,
+    "animal": {
+      "english": "White-throated monitor",
+      "latin": "Varanus albigularis"
+    },
+    "owner": "Hamilton Betonia"
+  },
+  {
+    "id": 18,
+    "animal": {
+      "english": "American woodcock",
+      "latin": "Scolopax minor"
+    },
+    "owner": "Trescha Fanton"
+  },
+  {
+    "id": 19,
+    "animal": {
+      "english": "American bison",
+      "latin": "Bison bison"
+    },
+    "owner": "Chuck Mapam"
+  },
+  {
+    "id": 20,
+    "animal": {
+      "english": "American buffalo",
+      "latin": "Bison bison"
+    },
+    "owner": "Virgina McElvogue"
+  },
+  {
+    "id": 21,
+    "animal": {
+      "english": "Columbian rainbow boa",
+      "latin": "Epicrates cenchria maurus"
+    },
+    "owner": "Mathian Thackston"
+  },
+  {
+    "id": 22,
+    "animal": {
+      "english": "Madagascar fruit bat",
+      "latin": "Pteropus rufus"
+    },
+    "owner": "Osgood Ionesco"
+  },
+  {
+    "id": 23,
+    "animal": {
+      "english": "African snake (unidentified)",
+      "latin": "unavailable"
+    },
+    "owner": "Ashbey Shetliff"
+  },
+  {
+    "id": 24,
+    "animal": {
+      "english": "Insect, stick",
+      "latin": "Leprocaulinus vipera"
+    },
+    "owner": "Rance Beardwell"
+  },
+  {
+    "id": 25,
+    "animal": {
+      "english": "Porcupine, tree",
+      "latin": "Coendou prehensilis"
+    },
+    "owner": "Deonne Ionesco"
+  },
+  {
+    "id": 26,
+    "animal": {
+      "english": "Llama",
+      "latin": "Lama glama"
+    },
+    "owner": "Thorndike Benardette"
+  },
+  {
+    "id": 27,
+    "animal": {
+      "english": "Snowy sheathbill",
+      "latin": "Chionis alba"
+    },
+    "owner": "Putnam Parsons"
+  },
+  {
+    "id": 28,
+    "animal": {
+      "english": "Brown antechinus",
+      "latin": "Antechinus flavipes"
+    },
+    "owner": "Nicolai Francklyn"
+  },
+  {
+    "id": 29,
+    "animal": {
+      "english": "Baboon, gelada",
+      "latin": "Theropithecus gelada"
+    },
+    "owner": "Pierrette Axcel"
+  },
+  {
+    "id": 30,
+    "animal": {
+      "english": "American bison",
+      "latin": "Bison bison"
+    },
+    "owner": "Jim Fewless"
+  },
+  {
+    "id": 31,
+    "animal": {
+      "english": "Spectacled caiman",
+      "latin": "Caiman crocodilus"
+    },
+    "owner": "Carole MacMaster"
+  },
+  {
+    "id": 32,
+    "animal": {
+      "english": "Little brown bat",
+      "latin": "Myotis lucifugus"
+    },
+    "owner": "Lindsey Ablitt"
+  },
+  {
+    "id": 33,
+    "animal": {
+      "english": "Jabiru stork",
+      "latin": "Ephippiorhynchus mycteria"
+    },
+    "owner": "Blair Oldam"
+  },
+  {
+    "id": 34,
+    "animal": {
+      "english": "Worm snake (unidentified)",
+      "latin": "Carphophis sp."
+    },
+    "owner": "Dukey Andrivel"
+  },
+  {
+    "id": 35,
+    "animal": {
+      "english": "Southern sea lion",
+      "latin": "Otaria flavescens"
+    },
+    "owner": "Randene Bulpitt"
+  },
+  {
+    "id": 36,
+    "animal": {
+      "english": "Quoll, eastern",
+      "latin": "Dasyurus viverrinus"
+    },
+    "owner": "Spence Tunney"
+  },
+  {
+    "id": 37,
+    "animal": {
+      "english": "Bustard, stanley",
+      "latin": "Neotis denhami"
+    },
+    "owner": "Antony Force"
+  },
+  {
+    "id": 38,
+    "animal": {
+      "english": "Lion, galapagos sea",
+      "latin": "Zalophus californicus"
+    },
+    "owner": "Greg Ilchenko"
+  },
+  {
+    "id": 39,
+    "animal": {
+      "english": "Southern brown bandicoot",
+      "latin": "Isoodon obesulus"
+    },
+    "owner": "Jule Daubeny"
+  },
+  {
+    "id": 40,
+    "animal": {
+      "english": "Sun gazer",
+      "latin": "Cordylus giganteus"
+    },
+    "owner": "Asia Lesser"
+  },
+  {
+    "id": 41,
+    "animal": {
+      "english": "Beaver, eurasian",
+      "latin": "Castor fiber"
+    },
+    "owner": "Ingar Lasslett"
+  },
+  {
+    "id": 42,
+    "animal": {
+      "english": "Ring dove",
+      "latin": "Columba palumbus"
+    },
+    "owner": "Tally Broinlich"
+  },
+  {
+    "id": 43,
+    "animal": {
+      "english": "Cape fox",
+      "latin": "Vulpes chama"
+    },
+    "owner": "George Mott"
+  },
+  {
+    "id": 44,
+    "animal": {
+      "english": "Marshbird, brown and yellow",
+      "latin": "Pseudoleistes virescens"
+    },
+    "owner": "Sibeal Avramovsky"
+  },
+  {
+    "id": 45,
+    "animal": {
+      "english": "Marshbird, brown and yellow",
+      "latin": "Pseudoleistes virescens"
+    },
+    "owner": "Rurik Froschauer"
+  },
+  {
+    "id": 46,
+    "animal": {
+      "english": "Water moccasin",
+      "latin": "Agkistrodon piscivorus"
+    },
+    "owner": "Joeann Pearce"
+  },
+  {
+    "id": 47,
+    "animal": {
+      "english": "Dolphin, bottle-nose",
+      "latin": "Tursiops truncatus"
+    },
+    "owner": "Ranee McKimmey"
+  },
+  {
+    "id": 48,
+    "animal": {
+      "english": "Wagtail, african pied",
+      "latin": "Motacilla aguimp"
+    },
+    "owner": "Saunder Garden"
+  },
+  {
+    "id": 49,
+    "animal": {
+      "english": "Horned lark",
+      "latin": "Eremophila alpestris"
+    },
+    "owner": "Carce Horsey"
+  },
+  {
+    "id": 50,
+    "animal": {
+      "english": "Skunk, western spotted",
+      "latin": "Spilogale gracilis"
+    },
+    "owner": "Bevan Tether"
+  },
+  {
+    "id": 51,
+    "animal": {
+      "english": "House sparrow",
+      "latin": "Passer domesticus"
+    },
+    "owner": "Inez Blackwood"
+  },
+  {
+    "id": 52,
+    "animal": {
+      "english": "Dusky rattlesnake",
+      "latin": "Crotalus triseriatus"
+    },
+    "owner": "Krissie Eads"
+  },
+  {
+    "id": 53,
+    "animal": {
+      "english": "Genet, small-spotted",
+      "latin": "Genetta genetta"
+    },
+    "owner": "Nari Fasson"
+  },
+  {
+    "id": 54,
+    "animal": {
+      "english": "Andean goose",
+      "latin": "Chloephaga melanoptera"
+    },
+    "owner": "Odetta Morffew"
+  },
+  {
+    "id": 55,
+    "animal": {
+      "english": "Brocket, red",
+      "latin": "Mazama americana"
+    },
+    "owner": "Griffie Bettis"
+  },
+  {
+    "id": 56,
+    "animal": {
+      "english": "Greater flamingo",
+      "latin": "Phoenicopterus ruber"
+    },
+    "owner": "Cherida De Francisci"
+  },
+  {
+    "id": 57,
+    "animal": {
+      "english": "Common melba finch",
+      "latin": "Pytilia melba"
+    },
+    "owner": "Tab Munkley"
+  },
+  {
+    "id": 58,
+    "animal": {
+      "english": "Killer whale",
+      "latin": "Orcinus orca"
+    },
+    "owner": "Aurie Climson"
+  },
+  {
+    "id": 59,
+    "animal": {
+      "english": "Hartebeest, coke's",
+      "latin": "Alcelaphus buselaphus cokii"
+    },
+    "owner": "Liliane Povey"
+  },
+  {
+    "id": 60,
+    "animal": {
+      "english": "Starfish, crown of thorns",
+      "latin": "Acanthaster planci"
+    },
+    "owner": "Quillan Trill"
+  },
+  {
+    "id": 61,
+    "animal": {
+      "english": "Elk, Wapiti",
+      "latin": "Cervus canadensis"
+    },
+    "owner": "Sheffy Lambricht"
+  },
+  {
+    "id": 62,
+    "animal": {
+      "english": "Kangaroo, brush-tailed rat",
+      "latin": "Bettongia penicillata"
+    },
+    "owner": "Adrian Coombs"
+  },
+  {
+    "id": 63,
+    "animal": {
+      "english": "Paradoxure",
+      "latin": "Paradoxurus hermaphroditus"
+    },
+    "owner": "Kristofer Scuffham"
+  },
+  {
+    "id": 64,
+    "animal": {
+      "english": "Snake (unidentified)",
+      "latin": "unavailable"
+    },
+    "owner": "Brigit Skitt"
+  },
+  {
+    "id": 65,
+    "animal": {
+      "english": "Goat, mountain",
+      "latin": "Oreamnos americanus"
+    },
+    "owner": "Gardiner Prestwich"
+  },
+  {
+    "id": 66,
+    "animal": {
+      "english": "Eagle, long-crested hawk",
+      "latin": "Lophoaetus occipitalis"
+    },
+    "owner": "Olag Reason"
+  },
+  {
+    "id": 67,
+    "animal": {
+      "english": "Tinamou, elegant crested",
+      "latin": "Eudromia elegans"
+    },
+    "owner": "Clemmie Lyard"
+  },
+  {
+    "id": 68,
+    "animal": {
+      "english": "Cattle egret",
+      "latin": "Bubulcus ibis"
+    },
+    "owner": "Rae Allworthy"
+  },
+  {
+    "id": 69,
+    "animal": {
+      "english": "Small Indian mongoose",
+      "latin": "Herpestes javanicus"
+    },
+    "owner": "Thomas Brokenshaw"
+  },
+  {
+    "id": 70,
+    "animal": {
+      "english": "Hummingbird (unidentified)",
+      "latin": "unavailable"
+    },
+    "owner": "Dunc Zannutti"
+  },
+  {
+    "id": 71,
+    "animal": {
+      "english": "Echidna, short-beaked",
+      "latin": "Tachyglossus aculeatus"
+    },
+    "owner": "Esther Bendelow"
+  },
+  {
+    "id": 72,
+    "animal": {
+      "english": "Baleen whale",
+      "latin": "Eubalaena australis"
+    },
+    "owner": "Starr Matuszinski"
+  },
+  {
+    "id": 73,
+    "animal": {
+      "english": "Black-cheeked waxbill",
+      "latin": "Estrilda erythronotos"
+    },
+    "owner": "Dun Wilcocks"
+  },
+  {
+    "id": 74,
+    "animal": {
+      "english": "Wildebeest, blue",
+      "latin": "Connochaetus taurinus"
+    },
+    "owner": "Sean Carrington"
+  },
+  {
+    "id": 75,
+    "animal": {
+      "english": "Sugar glider",
+      "latin": "Petaurus breviceps"
+    },
+    "owner": "Marcos Saing"
+  },
+  {
+    "id": 76,
+    "animal": {
+      "english": "Collared peccary",
+      "latin": "Tayassu tajacu"
+    },
+    "owner": "Carmelita Bernadot"
+  },
+  {
+    "id": 77,
+    "animal": {
+      "english": "Shelduck, common",
+      "latin": "Tadorna tadorna"
+    },
+    "owner": "Freeman Upstell"
+  },
+  {
+    "id": 78,
+    "animal": {
+      "english": "Egyptian viper",
+      "latin": "Naja haje"
+    },
+    "owner": "Sybyl Jedrysik"
+  },
+  {
+    "id": 79,
+    "animal": {
+      "english": "Crested porcupine",
+      "latin": "Hystrix cristata"
+    },
+    "owner": "Blaine Taylder"
+  },
+  {
+    "id": 80,
+    "animal": {
+      "english": "Knob-nosed goose",
+      "latin": "Sarkidornis melanotos"
+    },
+    "owner": "Anne-corinne Whittles"
+  },
+  {
+    "id": 81,
+    "animal": {
+      "english": "Manatee",
+      "latin": "Trichechus inunguis"
+    },
+    "owner": "Eba Brunner"
+  },
+  {
+    "id": 82,
+    "animal": {
+      "english": "Plains zebra",
+      "latin": "Equus burchelli"
+    },
+    "owner": "Jamima Siddaley"
+  },
+  {
+    "id": 83,
+    "animal": {
+      "english": "Chipmunk, least",
+      "latin": "Eutamias minimus"
+    },
+    "owner": "Roz Saice"
+  },
+  {
+    "id": 84,
+    "animal": {
+      "english": "Godwit, hudsonian",
+      "latin": "Limosa haemastica"
+    },
+    "owner": "Howard Paddon"
+  },
+  {
+    "id": 85,
+    "animal": {
+      "english": "Magistrate black colobus",
+      "latin": "Colobus guerza"
+    },
+    "owner": "Kelvin Fussie"
+  },
+  {
+    "id": 86,
+    "animal": {
+      "english": "Wombat, southern hairy-nosed",
+      "latin": "Lasiorhinus latifrons"
+    },
+    "owner": "Loleta Accum"
+  },
+  {
+    "id": 87,
+    "animal": {
+      "english": "Deer, white-tailed",
+      "latin": "Odocoilenaus virginianus"
+    },
+    "owner": "Demetria Corke"
+  },
+  {
+    "id": 88,
+    "animal": {
+      "english": "Coqui partridge",
+      "latin": "Francolinus coqui"
+    },
+    "owner": "Lusa Berfoot"
+  },
+  {
+    "id": 89,
+    "animal": {
+      "english": "Turtle, long-necked",
+      "latin": "Chelodina longicollis"
+    },
+    "owner": "Skipp Rusling"
+  },
+  {
+    "id": 90,
+    "animal": {
+      "english": "Snake, western patch-nosed",
+      "latin": "Salvadora hexalepis"
+    },
+    "owner": "Brenna Lowing"
+  },
+  {
+    "id": 91,
+    "animal": {
+      "english": "African ground squirrel (unidentified)",
+      "latin": "Xerus sp."
+    },
+    "owner": "Serene Shevelin"
+  },
+  {
+    "id": 92,
+    "animal": {
+      "english": "Fork-tailed drongo",
+      "latin": "Dicrurus adsimilis"
+    },
+    "owner": "Dulsea Innwood"
+  },
+  {
+    "id": 93,
+    "animal": {
+      "english": "Horned rattlesnake",
+      "latin": "Crotalus cerastes"
+    },
+    "owner": "Chandal Scamal"
+  },
+  {
+    "id": 94,
+    "animal": {
+      "english": "Bobcat",
+      "latin": "Felis rufus"
+    },
+    "owner": "Karon Redmire"
+  },
+  {
+    "id": 95,
+    "animal": {
+      "english": "Dog, bush",
+      "latin": "Speothos vanaticus"
+    },
+    "owner": "Dinny Kenvin"
+  },
+  {
+    "id": 96,
+    "animal": {
+      "english": "Wood pigeon",
+      "latin": "Columba palumbus"
+    },
+    "owner": "Nydia Colbeck"
+  },
+  {
+    "id": 97,
+    "animal": {
+      "english": "Jungle cat",
+      "latin": "Felis chaus"
+    },
+    "owner": "Terri McIleen"
+  },
+  {
+    "id": 98,
+    "animal": {
+      "english": "Trumpeter, green-winged",
+      "latin": "Psophia viridis"
+    },
+    "owner": "Guillemette Andreu"
+  },
+  {
+    "id": 99,
+    "animal": {
+      "english": "Lion, asian",
+      "latin": "Panthera leo persica"
+    },
+    "owner": "Bink Wheelton"
+  },
+  {
+    "id": 100,
+    "animal": {
+      "english": "Beaver, eurasian",
+      "latin": "Castor fiber"
+    },
+    "owner": "Essa Stemson"
+  }
+]
